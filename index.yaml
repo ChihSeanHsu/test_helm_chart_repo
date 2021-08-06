@@ -3,9 +3,9 @@ entries:
   fluentd:
   - apiVersion: v2
     appVersion: v1.12.0
-    created: "2021-08-06T17:42:03.34567+08:00"
+    created: "2021-08-06T18:04:29.048306+08:00"
     description: A Helm chart for Kubernetes
-    digest: f73a8b90ea1e7399c18f431ad87e5c049df0b5c1b43d04263980ba91cfc55183
+    digest: c1dc20709203d7f4ea0a7e9e7364f73d6fa15371140cb7f17a58dd2bce0d4762
     home: https://www.fluentd.org/
     icon: https://www.fluentd.org/assets/img/miscellany/fluentd-logo_2x.png
     maintainers:
@@ -20,4 +20,4 @@ entries:
     urls:
     - fluentd-0.2.7.tgz
     version: 0.2.7
-generated: "2021-08-06T17:42:03.330175+08:00"
+generated: "2021-08-06T18:04:29.042624+08:00"
